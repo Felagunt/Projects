@@ -1,0 +1,2 @@
+c:\users\best\documents\visual studio 2015\Projects\Colelctions\Colelctions\bin\Debug\Colelctions.exe.config
+c:\users\best\documents\visual studio 2015\Projects\Colelctions\Colelctions\obj\Debug\Colelctions.csprojResolveAssemblyReference.cache
